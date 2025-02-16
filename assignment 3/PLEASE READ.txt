@@ -1,0 +1,5 @@
+The SQL code can be found in assignment_3.sql
+ER diagram can be found in assignment_3_ef_graph.pdf
+    The ER diagram also contains information if the table is a fact, or a dimension table.
+Samples of all the views created can be found in the "view samples" folder
+Descriptions of all the feilds, and their restraints can be found in the ER diagram.
