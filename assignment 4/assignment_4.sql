@@ -1,3 +1,5 @@
+/* PLEASE READ: Text descriptions of all tables at the bottom. */
+
 drop database if exists store_ledger;
 create database store_ledger;
 
